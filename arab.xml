@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1,Al Aan TV
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai TV
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+
+#EXTINF:-1,Sama Dubai
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Sports HD
+http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Sports
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Drama
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai Racing 2
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1,Noor Dubai TV
+http://dmivll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8

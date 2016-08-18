@@ -1,0 +1,132 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR=cyan]ERA FM[/COLOR]
+http://astro2.rastream.com/era?type=.flv
+
+#EXTINF:-1,[COLOR=cyan]HOT FM[/COLOR]
+http://9453.live.streamtheworld.com:3690/HOTFMAAC?type=.flv
+
+#EXTINF:-1,[COLOR=cyan]SURIA FM[/COLOR]
+http://starrfm.rastream.com/starrfm-suria?type=.flv
+
+#EXTINF:-1,[COLOR=cyan]SINAR FM[/COLOR]
+http://astro2.rastream.com/sinar?type=.flv
+
+#EXTINF:-1,[COLOR=cyan]XFRESH FM[/COLOR]
+http://audri.rastream.com/amp-xfm_audri?type=.flv
+
+#EXTINF:-1,[COLOR=cyan]THR GEGAR[/COLOR]
+http://astro3.rastream.com/gegar?type=.flv
+
+#EXTINF:-1,[COLOR=green]IKIM FM[/COLOR]
+http://50.7.96.210:8285/;stream.mp3:21
+
+#EXTINF:-1,[COLOR=green]MUZIK FM[/COLOR]
+http://69.197.60.122:8000/;stream.mp3
+
+[COLOR=green]Bernama Radio 24[/COLOR]
+http://78.129.234.163:5146/;stream.mp3
+
+[COLOR=green]KL FM[/COLOR]
+http://dkmgz1nucppmx.cloudfront.net/rtm-ch018/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEST104 FM[/COLOR]
+http://69.197.60.122:8000/;stream.mp3
+
+#EXTINF:-1,[COLOR=yellow]FLY FM[/COLOR]
+http://7439.live.streamtheworld.com/FLYFMAAC?type=.flv
+
+#EXTINF:-1,[COLOR=yellow]HITZ FM[/COLOR]
+http://astro1.rastream.com/hitz?type=.flv
+
+#EXTINF:-1,[COLOR=yellow]MIX FM[/COLOR]
+http://astro2.rastream.com/mix?type=.flv
+
+#EXTINF:-1,LITE FM
+http://astro1.rastream.com/lite?type=.flv
+
+#EXTINF:-1,TRAXX FM
+http://turbo.stream.my/live/mp4:rtm-ch013/playlist.m3u8
+
+#EXTINF:-1,MY FM
+http://astro1.rastream.com/myfm?type=.flv
+
+#EXTINF:-1,THR RAAGA FM
+http://astro3.rastream.com/raaga?type=.flv
+
+
+
+#EXTINF:-1,[COLOR cyan][B]---------- RADIO NEGERI ----------[/B][/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1,[COLOR=red]SELANGOR FM[/COLOR]
+http://turbo.stream.my/live/mp4:rtm-ch019/manifest.f4m
+
+#EXTINF:-1,[COLOR=red]SARAWAK FM[/COLOR]
+http://124.82.221.149:8000/;stream.mp3
+
+#EXTINF:-1,WAI FM (SARAWAK)
+http://124.82.221.133:8000/;listen.mp3
+
+#EXTINF:-1,RED FM (SARAWAK)
+http://124.82.221.149:8000/;listen.mp3
+
+#EXTINF:-1,CATS FM (SARAWAK)
+http://199.189.111.28:8244/;stream.mp3?type=.mp3/;stream.mp3
+
+#EXTINF:-1,Labuan FM
+http://turbo.stream.my/live/mp4:rtm-ch025/manifest.f4m
+
+#EXTINF:-1,[COLOR=red]PAHANG FM[/COLOR]
+http://115.133.145.203:8000/;stream.mp3
+
+#EXTINF:-1,[COLOR=red]PERAK FM[/COLOR]
+http://72.20.10.50:8000/;stream.mp3
+
+#EXTINF:-1,[COLOR=red]SABAH FM[/COLOR]
+http://s8.voscast.com:7484/;stream.mp3
+
+#EXTINF:-1,[COLOR=red]SABAH V FM[/COLOR]
+http://s8.voscast.com:7472/;stream.mp3
+
+#EXTINF:-1,[COLOR=red]KENINGAU FM[/COLOR]
+http://50.7.158.42:8084/;stream.mp3
+
+#EXTINF:-1,[COLOR=red]SANDAKAN FM[/COLOR]
+http://50.7.158.42:8183/;stream.mp3
+
+#EXTINF:-1,[COLOR=red]KELANTAN FM[/COLOR]
+http://72.20.10.34:8000/;stream.mp3
+
+#EXTINF:-1,[COLOR=red]PERLIS FM[/COLOR]
+http://198.154.106.102:8453/;stream.mp3
+
+#EXTINF:-1,[COLOR=red]KEDAH FM[/COLOR]
+http://60.51.214.210:8000/;stream.mp3
+
+
+#EXTINF:-1,[COLOR cyan][B]---------- RADIO SINGAPORE ----------[/B][/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1,RIA 89.7FM (SINGAPORE)
+http://mediacorp.rastream.com/897fm?type=.mp3/;stream.mp3
+
+#EXTINF:-1,WARNA 94.2FM (SINGAPORE)
+http://mediacorp.rastream.com/942fm?type=.mp3/;stream.mp3
+
+
+
+#EXTINF:-1,[COLOR cyan][B]---------- RADIO INTERNET ----------[/B][/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1,BAPAKKU FM
+http://radio.bapakku.fm:8000/;stream.mp3
+
+#EXTINF:-1,Fulamak FM
+http://72.20.10.60:8000/;stream.mp3
+
+#EXTINF:-1,Amboi FM
+http://72.20.10.51:8888/;stream.mp3
+
+#EXTINF:-1,Chili FM
+http://72.20.10.36:8000/;stream.mp3

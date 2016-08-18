@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<item>
+  <title>[COLOR=white]RTM TV1[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10149</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/10149</page>
+    <referer>http://rtm-player.glueapi.io/f/10149</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://rtm-images.gluempsapp.com/320x180/live_stream/1-TV1.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=white]RTM TV2[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10148</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/10148</page>
+    <referer>http://rtm-player.glueapi.io/f/10148</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://rtm-images.gluempsapp.com/320x180/live_stream/2-TV2.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=white]RTM 1News[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10153</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/10153</page>
+    <referer>http://rtm-player.glueapi.io/f/10153</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://rtm-images.gluempsapp.com/320x180/live_stream/5-1News.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=yellow]RTM - Channel 1 (Olympic Games)[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/36000</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/36000</page>
+    <referer>http://rtm-player.glueapi.io/f/36000</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-1.jpg</thumbnail>
+</item>
+
+
+<item>
+  <title>[COLOR=yellow]RTM - Channel 2 (Olympic Games)[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/36001</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/36001</page>
+    <referer>http://rtm-player.glueapi.io/f/36001</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-2.jpg</thumbnail>
+</item>
+<item>
+  <title>[COLOR=yellow]RTM - Channel 3 (Olympic Games)[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/36002</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/36002</page>
+    <referer>http://rtm-player.glueapi.io/f/36002</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-3.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=yellow]RTM - Channel 4 (Olympic Games)[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/36003</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/36003</page>
+    <referer>http://rtm-player.glueapi.io/f/36003</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-4.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=yellow]RTM - Channel 5 (Olympic Games)[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/36004</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/36004</page>
+    <referer>http://rtm-player.glueapi.io/f/36004</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-5.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=yellow]RTM - Channel 6 (Olympic Games)[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/36005</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/36005</page>
+    <referer>http://rtm-player.glueapi.io/f/36005</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-6.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=yellow]RTM - Channel 7 (Olympic Games)[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/36006</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/36006</page>
+    <referer>http://rtm-player.glueapi.io/f/36006</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-7.jpg</thumbnail>
+</item>
+
+
+
+<item>
+  <title>[COLOR=cyan]RTM - Channel 1 (Olympic Games)[/COLOR] SD</title>
+  <link>http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-1/chunklist_b644000_sleng.m3u8</link>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-1.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=cyan]RTM - Channel 2 (Olympic Games)[/COLOR] SD</title>
+  <link>http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-2/chunklist_b644000_sleng.m3u8</link>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-2.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=cyan]RTM - Channel 3 (Olympic Games)[/COLOR] SD</title>
+  <link>http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-3/chunklist_b644000_sleng.m3u8</link>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-3.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=cyan]RTM - Channel 4 (Olympic Games)[/COLOR] SD</title>
+  <link>http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-4/chunklist_b644000_sleng.m3u8</link>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-4.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=cyan]RTM - Channel 5 (Olympic Games)[/COLOR] SD</title>
+  <link>http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-5/chunklist_b644000_sleng.m3u8</link>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-5.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=cyan]RTM - Channel 6 (Olympic Games)[/COLOR] SD</title>
+  <link>http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-6/chunklist_b644000_sleng.m3u8</link>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-6.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=cyan]RTM - Channel 7 (Olympic Games)[/COLOR] SD</title>
+  <link>http://d2pvap6btj9a99.cloudfront.net/smil:olimpik-7/chunklist_b644000_sleng.m3u8</link>
+  <thumbnail>http://hospenyiar.rtm.gov.my/olimpik/img/nav/CHANNEL-7.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=red]ASTRO AWANI[/COLOR]</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/astro_awani.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=cyan]GO SHOP HD[/COLOR]</title>
+<link>http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/go_shop_my.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=yellow]BERNAMA TV[/COLOR]</title>
+<link>http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bernama_tv.png</thumbnail>
+</item>
+
+
+<title>[COLOR=yellow]BERNAMA TV[/COLOR] backup</title>
+<link>http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=cyan][I]ASTRO RIA[/I][/COLOR]</title>
+<link>http://www.layarku.tv/media/riaweb6.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<title>[COLOR=cyan][I]ASTRO RIA[/I][/COLOR] backup</title>
+<link>http://penang.layarku.tv/edge/149_327_live/chunklist_w590415699.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+                              
+
+<item>
+<title>[COLOR=red]AL-HIJRAH[/COLOR]</title>
+<link>http://nx-cdn.mynexa.my/tvahlive/smil:tvah_hypptv.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=white]RTM TVi[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10150</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/10150</page>
+    <referer>http://rtm-player.glueapi.io/f/10150</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://rtm-images.gluempsapp.com/320x180/live_stream/3-TVi.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=white]RTM Galaksi Muzik[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10151</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/10151</page>
+    <referer>http://rtm-player.glueapi.io/f/10151</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://rtm-images.gluempsapp.com/320x180/live_stream/4-GalaksiMuzik.jpg</thumbnail>
+</item>
+
+<item>
+  <title>[COLOR=white]RTM Parlimen Malaysia[/COLOR][COLOR=red] HD[/COLOR]</title>
+  <link>$doregex[m3u8]|User-Agent=iPhone&amp;Referer=http://rtm-player.glueapi.io/f/10152</link>
+  <regex>
+    <name>m3u8</name>
+    <expres>file="([^\"]+)"</expres>
+    <page>http://rtm-player.glueapi.io/f/10152</page>
+    <referer>http://rtm-player.glueapi.io/f/10152</referer>
+    <agent>Mozilla/5.0</agent>
+    <accept>*/*</accept>
+    <cookieJar></cookieJar>
+  </regex>
+<thumbnail>http://rtm-images.gluempsapp.com/320x180/live_stream/6-RTMParlimen.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MARA TV</title>
+<link>http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
+</item>
+
+<item>
+<title>MOB TV</title>
+<link>rtmp://52.76.43.125/live//mystream</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>

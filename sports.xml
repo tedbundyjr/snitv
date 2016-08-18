@@ -1,0 +1,163 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR cyan][B]---------- SPORTS TV LIVE ----------[/B][/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 1[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-1/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 2[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-2/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 3[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-3/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 4[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-4/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 5[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-5/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 6[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-6/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 7[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-7/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 8[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-8/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 9[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-9/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 10[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-10/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 11[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-11/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 12[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-12/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BEIN SPORTS 13[/COLOR]
+http://149.202.207.8:8080/NTSbhensp-13/counter1/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR=cyan]CTH STADIUM 1[/COLOR] - Offline
+http://149.202.207.8:8080/TRGseeTeechh-1/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=cyan]CTH STADIUM 2[/COLOR] - Offline
+http://149.202.207.8:8080/TRGseeTeechh-2/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=cyan]CTH STADIUM 3[/COLOR] - Offline
+http://149.202.207.8:8080/TRGseeTeechh-3/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=cyan]CTH STADIUM 4[/COLOR] - Offline
+http://149.202.207.8:8080/TRGseeTeechh-4/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=cyan]CTH STADIUM 5[/COLOR] - Offline
+http://149.202.207.8:8080/TRGseeTeechh-5/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=cyan]CTH STADIUM 6[/COLOR] - Offline
+http://149.202.207.8:8080/TRGseeTeechh-6/counter1/index.m3u8
+
+
+
+#EXTINF:-1,[COLOR=lightyellow]ASTRO SUPERSPORT 1[/COLOR] - Offline
+http://149.202.207.8:8080/TRGaSsrt0o-1/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=lightyellow]ASTRO SUPERSPORT 2[/COLOR] - Offline
+http://149.202.207.8:8080/TRGaSsrt0o-2/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=lightyellow]ASTRO SUPERSPORT 3[/COLOR] - Offline
+http://149.202.207.8:8080/TRGaSsrt0o-3/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=lightyellow]ASTRO SUPERSPORT 4[/COLOR] - Offline
+http://149.202.207.8:8080/TRGaSsrt0o-4/counter1/index.m3u8
+
+
+#EXTINF:-1,[COLOR=cyan]TEN1 HD[/COLOR]
+http://149.202.207.8:8080/TRGtien-sp-1/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=cyan]TEN2 HD[/COLOR]
+http://149.202.207.8:8080/TRGtien-sp-2/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=cyan]TEN3 HD[/COLOR]
+http://149.202.207.8:8080/TRGtien-sp-3/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=cyan]TEN CRIKET HD[/COLOR]
+http://149.202.85.84:8080/TRGteein-cri/counter1/index.m3u8
+
+
+
+#EXTINF:-1,[COLOR=yellow]EUROSPORT 1[/COLOR]
+http://149.202.85.84:8080/NTSeiuor-1/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]EUROSPORT 2[/COLOR]
+http://149.202.85.84:8080/NTSeiuor-2/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]EURO SPORT[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1,[COLOR=yellow]ESPN UK[/COLOR]
+http://149.202.85.84:8080/TRGeiSsepn/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]BT SPORTS EUROPE[/COLOR]
+http://149.202.85.84:8080/TRGbeETy-U/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=yellow]SKY SPORTS 2[/COLOR]
+http://149.202.207.8:8080/TRGPEEK/EENG6/index.m3u8
+
+
+
+
+#EXTINF:-1,[COLOR=white]DUBAI SPORT 3 (ARABIC)[/COLOR]
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white]DUBAI RACING (ARABIC)[/COLOR]
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8
+
+
+
+
+#EXTINF:-1,[COLOR=yellow]FIGHT SPORT[/COLOR]
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+
+#EXTINF:-1,[COLOR=yellow]True Sport 2 HD[/COLOR]
+rtmp://216.185.103.158/live2///chthaipremier11
+
+#EXTINF:-1,[COLOR=yellow]NBC GOLF[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1,[COLOR=yellow]REDBULL TV[/COLOR]
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=yellow]VERSUS[/COLOR]
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+
+
+
+
+#EXTINF:-1,[COLOR=deepskyblue][B]---------- FOOTBALL CLUB TV ----------[/B][/COLOR]
+http://www.youtube.com
+
+#EXTINF:-1,[COLOR=lime]CHELSEA TV[/COLOR]
+http://149.202.85.84:8080/TRGcehlsee/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=lime]Liverpool FC TV[/COLOR]
+http://149.202.85.84:8080/TRGelfseea/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=lime]MUTV[/COLOR]
+http://149.202.85.84:8080/TRGemyou0T/counter1/index.m3u8
+
+#EXTINF:-1,[COLOR=lime]REAL MADRID TV[/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1,[COLOR=lime]REAL MADRID TV[/COLOR] Backup
+http://149.202.85.84:8080/TRGreeel-maard/counter2/index.m3u8

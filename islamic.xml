@@ -1,0 +1,24 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR=yellow]Makkah Live HD[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=lsKg9KpVaKg
+
+#EXTINF:-1,[COLOR=blue]Makkah Live HD[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=D8YHp37-tp0
+
+#EXTINF:-1,[COLOR=cyan]Madinah Live HD[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=bPC3c9VVV3I
+
+#EXTINF:-1,[COLOR=orange]Madinah Live HD[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=qv5siL0_usg
+
+
+
+#EXTINF:-1,[COLOR=red]PEACE TV USA[/COLOR]
+rtmp://peace.fms.visionip.tv/live//b2b-peace_usa-live-25f-4x3-sdh_1
+
+#EXTINF:-1,[COLOR=red]PEACE TV UK[/COLOR]
+rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
+
+#EXTINF:-1,[COLOR=white]Huda TV[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=Qwv8xRHGRD8

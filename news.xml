@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR=white]Al-Jazeera HD[/COLOR] (Youtube stream)
+plugin://plugin.video.youtube/?action=play_video&videoid=VBEmqvVPOX4
+
+#EXTINF:-1,[COLOR=white]Al-Jazeera HD[/COLOR]
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+
+#EXTINF:-1,[COLOR=white]Russia Today HD[/COLOR]
+http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR=white]Russia Today[/COLOR]
+http://rt-lh.akamaihd.net/i/ch_01@325605/index_480p_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR=white]France 24 HD[/COLOR] (Youtube stream)
+plugin://plugin.video.youtube/?action=play_video&videoid=gq11un3xqsA
+
+
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1,[COLOR=white]FRANCE 24 (EN) HD[/COLOR]
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1,[COLOR=white]ABC NEWS[/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=500,300,700,900,1200
+
+#EXTINF:-1,[COLOR=white]Sky News Live HD[/COLOR] (Youtube stream)
+plugin://plugin.video.youtube/?action=play_video&videoid=y60wDzZt8yg
+
+#EXTINF:-1,[COLOR=white]NHK WORLD[/COLOR]
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:-1, CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/cnn_live_tv3.sdp/playlist.m3u8
+
+#EXTINF:-1, [COLOR=red]ASTRO AWANI[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8
+
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_900.m3u8
+
+
+#EXTINF:-1,[COLOR=white]EURONEWS[/COLOR]
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+
+#EXTINF:-1,[COLOR=white]REUTERS[/COLOR]
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white]DW (USA)[/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+
+#EXTINF:-1,[COLOR=white]DW (Asia)[/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+
+#EXTINF:-1,[COLOR=white]DW (Europe)[/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
+
+#EXTINF:-1,[COLOR=white]AFRICA NEWS NETWORK HD[/COLOR]
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+
+#EXTINF:-1,[COLOR=white]CHCH[/COLOR]
+http://54.85.197.21:1935/live/news/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white]C-SPAN 1[/COLOR]
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR=white]C-SPAN 2[/COLOR]
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR=white]C-SPAN 3[/COLOR]
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR=white]DEUTSCHE WELLE[/COLOR]
+http://metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+
+#EXTINF:-1,[COLOR=white]NEXT TV[/COLOR]
+http://m.nexttv.com.tw/mbr2.m3u8
+
+#EXTINF:-1,[COLOR=white]NDTV PRIME[/COLOR]
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white]PHOENIX INFONEWS[/COLOR]
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+
+#EXTINF:-1,[COLOR=white]PRESS TV[/COLOR]
+rtmp://mtv.fms-01.visionip.tv/live/mtv-ptv-live-25f-16x9-SDh
+
+#EXTINF:-1,[COLOR=white]TWIT TV[/COLOR]
+http://twit.live-s.cdn.bitgravity.com/cdn-live-s1/_definst_/twit/live/high/playlist.m3u8

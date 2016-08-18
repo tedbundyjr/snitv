@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1,RUSSIA TODAY Documentary HD
+http://rt-lh.akamaihd.net/i/ch_05@325609/index_720p_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,RUSSIA TODAY Documentary
+http://rt-lh.akamaihd.net/i/ch_05@325609/index_480p_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ALAZEERA (Documentary)
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+
+#EXTINF:-1,Discovery Channel (Hindi)
+http://www.x-media.tv:58080/live/332211/URuSpsZtrG/659.ts
+
+#EXTINF:-1,Discovery Science (Hindi)
+http://www.x-media.tv:58080/live/332211/URuSpsZtrG/727.ts
+
+#EXTINF:-1,National Geographic (Hindi)
+http://www.x-media.tv:58080/live/332211/URuSpsZtrG/724.ts
+
+#EXTINF:-1,NatGeo Wild
+http://www.x-media.tv:58080/live/332211/URuSpsZtrG/725.ts
+
+#EXTINF:-1,NatGeo People
+http://www.x-media.tv:58080/live/332211/URuSpsZtrG/726.ts
+
+#EXTINF:-1,Discovery Turbo(HINDI)
+http://www.x-media.tv:58080/live/332211/URuSpsZtrG/728.ts
+
+#EXTINF:-1,Nasa TV Media HD
+plugin://plugin.video.youtube/?action=play_video&videoid=OX9I1KyNa8M
+
+#EXTINF:-1,NASA Video : Earth From ISS
+plugin://plugin.video.youtube/?action=play_video&videoid=njCDZWTI-xg
+
+#EXTINF:-1,Earthquake 3D Livestream
+plugin://plugin.video.youtube/?action=play_video&videoid=PtOiyv5Fg-0
+
+#EXTINF:-1,
+plugin://plugin.video.youtube/?action=play_video&videoid=
